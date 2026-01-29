@@ -1,7 +1,7 @@
  IP Information Tool
 
 A simple and interactive Python tool to fetch detailed information about any IP address using ip-api.com
-.
+
 
  Features
 
