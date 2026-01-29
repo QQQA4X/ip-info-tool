@@ -42,18 +42,18 @@ Example output:
 
 IP Information:
 ---------------
-IP: 8.8.8.8
-Code: US
-Country: United States
-Region: California
-City: Mountain View
-Latitude: 37.386
-Longitude: -122.0838
-Zip Code: 94035
-TimeZone: America/Los_Angeles
-ASN: AS15169
-AS Name: GOOGLE
-Proxy: False
+ IP: 8.8.8.8
+ Code: US
+ Country: United States
+ Region: California
+ City: Mountain View
+ Latitude: 37.386
+ Longitude: -122.0838
+ Zip Code: 94035
+ TimeZone: America/Los_Angeles
+ ASN: AS15169
+ AS Name: GOOGLE
+ Proxy: False
 
 
 Dev A4X
