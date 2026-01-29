@@ -1,25 +1,59 @@
-IP Information Tool
+ IP Information Tool
 
-Simple Python tool to fetch detailed IP address information using ip-api.com.
+A simple and interactive Python tool to fetch detailed information about any IP address using ip-api.com
+.
 
-Features
+ Features
 
-Country & city lookup
+Get country 🇺🇸, region , city , and zip code 
 
-ASN & ISP info
+Get latitude and longitude 
 
-Timezone & coordinates
+Timezone information 
 
-Proxy detection
+ASN (Autonomous System Number) and AS Name 
 
-Fast & lightweight
+Proxy detection 
 
-Requirements
+Easy-to-use interactive terminal interface 
 
-Python 3.x
+ Installation
 
-requests
+Make sure Python 3 is installed.
 
-Installation
+Install the required libraries:
 
 pip install -r requirements.txt
+
+
+Download the script ip_info_tool.py.
+
+ Usage
+
+Run the script:
+
+python ip_info_tool.py
+
+Type any IP address to get its detailed info.
+
+Type exit to quit the program.
+
+Example output:
+
+IP Information:
+---------------
+IP: 8.8.8.8
+Code: US
+Country: United States
+Region: California
+City: Mountain View
+Latitude: 37.386
+Longitude: -122.0838
+Zip Code: 94035
+TimeZone: America/Los_Angeles
+ASN: AS15169
+AS Name: GOOGLE
+Proxy: False
+
+
+Dev A4X
