@@ -23,15 +23,9 @@ Make sure Python 3 is installed.
 
 Install the required libraries:
 
-pip install -r requirements.txt
-
-
 Download the script ip_info_tool.py.
-
  Usage
-
 Run the script:
-
 python ip_info_tool.py
 
 Type any IP address to get its detailed info.
